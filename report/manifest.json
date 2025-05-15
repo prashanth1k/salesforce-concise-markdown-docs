@@ -1,0 +1,12 @@
+{
+  "name": "Salesforce Report Metadata Guide",
+  "description": "A developer's guide to understanding and working with Salesforce Report metadata (.report-meta.xml files). Covers core structure, data shaping, filtering, groupings, and summarization.",
+  "version": "Current Salesforce API",
+  "default_doc": "report_metadata_core.md",
+  "topics": {
+    "core_structure": "report_metadata_core.md",
+    "data_shaping_filters": "report_data_shaping.md",
+    "grouping_summaries": "report_summarization_grouping.md"
+  },
+  "totalSnippets": 100
+}

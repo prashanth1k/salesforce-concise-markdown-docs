@@ -1,0 +1,18 @@
+{
+  "name": "LWC Developer Guide",
+  "description": "Comprehensive guide to Lightning Web Components development, covering core concepts, HTML templates, JavaScript logic, decorators, lifecycle hooks, data services (Wire, Apex, LDS), events, base components, module resolution, styling, testing, and best practices.",
+  "version": "LWC Framework - Current",
+  "default_doc": "lwc_overview.md",
+  "topics": {
+    "overview": "lwc_overview.md",
+    "creating_components": "lwc_creating_components.md",
+    "base_components": "lwc_base_components_guide.md",
+    "javascript_logic": "lwc_javascript_logic.md",
+    "decorators_properties": "lwc_decorators_properties.md",
+    "lifecycle_hooks": "lwc_lifecycle_hooks.md",
+    "data_services": "lwc_data_services.md",
+    "events_communication_signals": "lwc_events_communication_signals.md",
+    "css_styling": "lwc_css_styling.md"
+  },
+  "totalSnippets": 100
+}
